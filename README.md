@@ -1,1 +1,1 @@
-# cents-trail
+A web application to track your personal finances.
